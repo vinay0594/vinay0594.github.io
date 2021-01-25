@@ -1,0 +1,352 @@
+.button {
+  background-color:#00000033; /* Green */
+  border: none;
+  padding: 8px 39px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: relative;
+  left: 802px;
+  top: 11px;
+  border-radius: 100px;
+}
+
+.button1 {
+  background-color: #00000033;
+  color: #663399;
+  border: 2px solid #663399;
+}
+
+.button1:hover {
+  background-color: #663399;
+  color: white;
+}
+
+.button2 {
+  background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+  color: white; 
+  padding: 11px  24px;
+  left: 812px;
+}
+
+.button2:hover {
+  background: #663390;
+  color: white;
+}
+
+
+
+.logo1-width {
+  width: 80px;
+    left: 86px;
+    position: relative;
+    top: 15px;
+}
+
+.logo2-width{
+  width: 50px;
+    left: 86px;
+    position: relative;
+    top: 15px;
+}
+
+.product{
+  color: black;
+  position: relative;
+  left: 631px;
+  font: normal normal normal 22px/28px Open Sans;
+  font-family: "OpenSans";
+  top: 10px;
+}
+.product:hover{
+  color:#9F62C9;
+}
+.solutions {
+  color: black;
+  position: relative;
+  left: 691px;
+  font: normal normal normal 22px/28px Open Sans;
+  font-family: "OpenSans";
+  top: 10px;
+}
+.solutions:hover{
+  color:#9F62C9;
+}
+
+.pricing {
+  color: black;
+  position: relative;
+  left: 752px;
+  font: normal normal normal 22px/28px Open Sans;
+  font-family: "OpenSans";
+  top: 10px;
+}
+.pricing:hover{
+  color:#9F62C9;
+}
+
+.circle-width {
+  position: relative;
+  width: 950px;
+  left: 560px;
+  bottom: 1550px;
+}
+.sim-width{
+  position: relative;
+  top: -1070px;
+  left: 150px;
+}
+.line-button {
+  top: -1078px;
+  right: 456px;
+  width: 214px;
+  height: 5px;
+  background: #000000 0% 0% no-repeat padding-box;
+  border-radius: 13px;
+  opacity: 0.7;
+  position: relative;
+}
+.circlesmall-width{
+  position: relative;
+    width: 400px;
+    bottom: 2130px;
+    right: 61px;;
+}
+.dottedimage1-width {
+  bottom: 2000px;
+  left: 970px;
+  width: 430px;
+  height: 70px;
+  opacity: 0.5;
+  position: relative;
+}
+
+.dottedimage-width {
+  bottom: 2190px;
+  left: 305px;
+  width: 420px;
+  height: 64px;
+  opacity: 0.5;
+  position: relative;
+}
+.collectimage-width{
+  bottom: 2510px;
+  left: 118px;
+  width: 510px;
+  position: relative;
+}
+
+.wave-width{
+  bottom: 2110px;
+    width: 1442px;
+    position: relative;
+}
+
+.card1{
+  bottom: 2947px;
+  width: 403px;
+  position: relative;
+  left: 100px;
+}
+
+.card1img{
+  bottom: 3178px;
+  position: relative;
+  left: 162px;
+}
+
+.card1Txt{
+  bottom: 3171px;
+  position: relative;
+  left: 162px;
+}
+
+.card1Txt2{
+  bottom: 3167px;
+  position: relative;
+  left: 162px;
+}
+
+.card2{
+  bottom: 3159px;
+  width: 403px;
+  position: relative;
+  left: 100px;
+}
+
+.card2img{
+  bottom: 3400px;
+  position: relative;
+  left: 162px;
+}
+
+.card2Txt{
+  bottom: 3390px;
+  position: relative;
+  left: 162px;
+}
+
+.card2Txt2{
+  bottom: 3390px;
+  position: relative;
+  left: 162px;
+}
+
+.card3{
+  bottom: 3387px;
+  width: 403px;
+  position: relative;
+  left: 100px;
+}
+
+.card3img{
+  bottom: 3627px;
+  position: relative;
+  left: 162px;
+}
+
+.card3Txt{
+  bottom: 3624px;
+  position: relative;
+  left: 162px;
+}
+
+.card3Txt2{
+  bottom: 3619px;
+  position: relative;
+  left: 162px;
+}
+
+.card4{
+  width: 403px;
+  bottom: 4214px;
+  position: relative;
+  left: 483px;
+}
+.card4img{
+  bottom: 4453px;
+  position: relative;
+  left: 550px;
+}
+
+.card4Txt{
+  bottom: 4453px;
+  position: relative;
+  left: 550px;
+  columns: black;
+}
+
+.card4Txt2{
+  bottom: 4453px;
+  position: relative;
+  left: 550px;
+}
+
+.card5{
+  width: 403px;
+  bottom: 4418px;
+  position: relative;
+  left: 483px;
+}
+.card5img{
+  bottom: 4648px;
+  position: relative;
+  left: 550px;
+}
+
+.card5Txt{
+  bottom: 4636px;
+  position: relative;
+  left: 550px;
+  columns: black;
+}
+
+.card6Txt2{
+  bottom: 4631px;
+  position: relative;
+  left: 550px;
+}
+
+.txt2{
+  bottom: 5020px;
+  position: relative;
+  left: 904px;
+}
+
+.line3{
+  bottom: 5020px;
+  position: relative;
+  left: 904px;
+}
+
+.hands{
+  bottom: 4998px;
+  position: relative;
+  left: 904px;
+  width:604px;
+}
+
+.mat-card {
+  bottom: 6157px;
+  width:400px;
+  height: 530px;
+  left: 766px;
+  border-radius: 25px;
+}
+
+.form-field{
+  bottom:10px;
+  position: relative;
+  left:30px;
+  width: 300px;
+}
+
+.slider{
+  top:5px;
+  position: relative;
+  width: 350px;
+  left:20px
+}
+
+.slider1{
+  bottom:20px;
+  position: relative;
+  width: 350px;
+  left:20px
+}
+
+.group7 {
+  left:1210px;
+  width:200px;
+  bottom:6650px;
+  position: relative;
+
+}
+
+.button3 {
+  background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+  color: white; 
+  left:438px;
+  width:200px;
+  bottom:6650px;
+  position: relative;
+
+}
+
+.button3:hover {
+  background: #663390;
+  color: white;
+}
+
+
+mat-toolbar {
+
+  background-color: white;
+}
+
+.span {
+  margin: auto;
+}

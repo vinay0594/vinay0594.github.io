@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+/* @import 'angular-material-demo-theme.scss'; */
+@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
+body {
+  margin: 0;
+  /* overflow: hidden; */
+  white-space: normal;
+  padding:0px;
+}
+/*
+.grid-test-1 > figure.mat-figure {
+  justify-content: flex-start !important;
+}
+*/
+
+.mat-raised-button.mat-primary {
+    background: #362f62;
+}
+
+.mat-stroked-button.mat-primary {
+    color: #362f62;
+}
+
+.mat-slider.mat-slider-horizontal .mat-slider-track-fill {
+  background-color: #663390;
+}
+
+.mat-slider-min-value:not(.mat-slider-thumb-label-showing) .mat-slider-thumb {
+  background-color: white;
+}
+
+.mat-slider.mat-slider-horizontal .mat-slider-track-wrapper {
+  height: 12px;
+  border-radius: 10px
+}
+
+.mat-slider.mat-slider-horizontal .mat-slider-track-background,
+.mat-slider.mat-slider-horizontal .mat-slider-track-fill {
+  height: 100%;
+}
+
+.mat-accent .mat-slider-thumb {
+  height: 30px;
+  width: 30px;
+  background-color: white;
+  border: solid 2px gray;
+  bottom: -20px;
+  right: -20px;
+}
+
